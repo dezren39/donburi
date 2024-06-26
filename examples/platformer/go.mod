@@ -8,7 +8,7 @@ require (
 	github.com/solarlune/resolv v0.6.0
 	github.com/tanema/gween v0.0.0-20221212145351-621cc8a459d1
 	github.com/yohamta/donburi v1.3.7
-	golang.org/x/image v0.1.0
+	golang.org/x/image v0.18.0
 )
 
 require (
